@@ -1,8 +1,8 @@
-- 👋 Hi, I’m PidgycusRep
+- 👋 Hi, I’m Pidgycus
 - 👀 This is a Repository of crac#ed games
-- 🌱 I’m currently learning PY
+- 🌱 I’m currently learning PY/C#
 - 💞️ If someone has games that i could pu in my Rep contact me 
-- 📫 How to reach me for more game: adding ideas ContactPidgycushereOFFICIAL
+- 📫 How to reach me for more game: adding ideas ContactPidgycushereOFFICIAL@gmail.com 
 - 😄 Pronouns: pid/gy/cus
 - ⚡ Fun fact: Im always online! Feel free to contact me for games or play something >.<
 - 
