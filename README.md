@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Pidgycus
-- 👀 This is a Repository of crac#ed games
+- 👀 This is a page with C# or PY
 - 🌱 I’m currently learning PY/C#
-- 💞️ If someone has games that i could pu in my Rep contact me 
-- 📫 How to reach me for more game: adding ideas ContactPidgycushereOFFICIAL@gmail.com 
+- 💞️ If someone has some fun or destructive scripts send me tot the mail below
+- 📫 How to reach me for sending scripts: adding ideas ContactPidgycushereOFFICIAL@gmail.com 
 - 😄 Pronouns: pid/gy/cus
-- ⚡ Fun fact: Im always online! Feel free to contact me for games or play something >.<
+- ⚡ Fun fact: Im always online! Feel free to contact me for scripts or play something >.<
 - 
 - MUCH LOVE💞️💞️💞️💞️
